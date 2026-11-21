@@ -13,11 +13,13 @@ The Scratch project file is also included in this repository: [`RAT SOCK SHOOTER
 1. Read the story, or press the purple **Skip** button to go straight to the game. We recommend watching the story!
 2. Choose **Yes** or **Of course** when prompted.
 3. Move your cursor to aim at the person you want to give a sock to.
-4. Click the person to shoot a sock. If you hear **“six-seven!”**, your shot succeeded.
+4. Click a moving character to shoot a sock and earn points. If you hear **“six-seven!”**, your shot succeeded.
 5. Give socks to as many people as possible before the 30-second timer runs out.
 6. Check your score on the ending page.
 
-Some characters, such as Tuturina, bring extra surprises when you give them a sock!
+Each successful sock shot increases the score. Most characters add 1 point, while Tuturina adds 3 points. Clicking the stage instead of a character counts as a miss and subtracts 1 point.
+
+Tuturina, the ballerina character, brings an extra surprise and a bigger score boost when you give her a sock!
 
 ## Objective
 
@@ -26,10 +28,11 @@ Give as many socks as you can before time runs out and try to get the highest sc
 ## Controls
 
 - **Move the cursor:** Aim at a person.
-- **Click:** Shoot a sock.
+- **Click a character:** Shoot a sock.
+- **Click the stage:** Miss and lose 1 point.
 - **Purple Skip button:** Skip the story.
 
-## Credits
+## Roles
 
-- **Shooting technique:** Hayden and Ellie
-- **Time system and scene animation:** Chloes
+- **Shooting Technique:** Hayden & Ellie
+- **Timesystem & Scene animation:** Chloes
